@@ -5,29 +5,29 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="168915023815185"
+    timestamp="170187775528366"
     token="-1349421111465340275"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="600" />
+        duration="665" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="61" />
+        duration="44" />
     <task
         name="verifier"
-        duration="7" />
+        duration="2" />
 
     <artifact
         location="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="168915023815185"
+        timestamp="170187775528366"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\outputs\apk\app-debug.apk"

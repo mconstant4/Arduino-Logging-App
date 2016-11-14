@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_998d957dd35d7aaae584ae41635a98f6438cc1f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -27,6 +18,60 @@
         revision="25.0.0"
         sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
         <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_363ca45c8818f96d13cb154c6d281703383934c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_21d3d4253197560b5689185de082d317be3691bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_9012091138aebbf441322b4fbbdee636a781d813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_56debf7b276e26c94c718910ad2ef0c8a3ed1822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_5ee673eff855c779a32d037497a3926e5c246817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_120446449ed6737b4b6d6dd22436276d2b6752a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_998d957dd35d7aaae584ae41635a98f6438cc1f3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,24 +102,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_21d3d4253197560b5689185de082d317be3691bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_9012091138aebbf441322b4fbbdee636a781d813.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -93,15 +120,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_56debf7b276e26c94c718910ad2ef0c8a3ed1822.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -117,15 +135,6 @@
         revision="25.0.0"
         sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
         <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_abe466e29fb2ca014e541252917fd5b8bc3942a3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_5ee673eff855c779a32d037497a3926e5c246817.jar" />
     </item>
     <item
         is-multidex="false"
@@ -153,15 +162,6 @@
         revision="25.0.0"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
         <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9587d5a6d19ce12a19b7ed80d58cdbc0be82204b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\mcons\Documents\Biosensing Lab\ArduinoLoggingApp\App\ArduinoLoggingApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_120446449ed6737b4b6d6dd22436276d2b6752a3.jar" />
     </item>
 
 </items>
